@@ -1,0 +1,25 @@
+{
+    "version":  5,
+    "name":  "delma-e-manuel",
+    "request":  "Clonar 1:1 o convite de noivado https://delma-e-manuel.nosdigital.app/ — capa com portas, convite, contagem, local, galeria, manual do convidado, RSVP e música, com todo o estilo, texturas e movimento. Resultado verificado pixel a pixel a 390/768/1440.",
+    "target":  {
+                   "kind":  "website",
+                   "url":  "https://delma-e-manuel.nosdigital.app/"
+               },
+    "stack":  "HTML/CSS/JS estático",
+    "status":  "ready",
+    "status_label":  "Ready",
+    "note":  "Clone estático 1:1. Capturas normalizadas do original e da cópia com SHA-256 idêntico em 390, 768 e 1440 px. Fotos/áudio do site original.",
+    "created_ms":  1795514615830,
+    "updated_ms":  1795514615830,
+    "checks":  [
+
+               ],
+    "agent_session":  null,
+    "allowed_actions":  [
+
+                        ],
+    "last_reply":  "",
+    "asset_budget_usd":  0,
+    "generate_assets":  false
+}
